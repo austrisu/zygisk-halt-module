@@ -1,0 +1,486 @@
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 73: ppoll (0)
+[i]  Args: 7fff92c160, 1, 0, 0, 0, ffffffff, ffffffff, 7b7de40698
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 212: recvmsg (1)
+[i]  Args: 13, 7fff92c0a8, 100, 1, 0, ffffffff, ffffffff, 7b7de401d8
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 212: recvmsg (0)
+[i]  Args: 13, 7fff92c0a8, 100, 1, 0, ffffffff, ffffffff, 7b7de401d8
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] Reading: socket:[117286]
+[i] 63: read (1)
+[i]  Args: 6, 7fff92c134, 4, ffffffffffffffff, ffffffffffffffff, ffffffff, ffffffff, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 63: read (0)
+[i]  Args: 6, 7fff92c134, 4, ffffffffffffffff, ffffffffffffffff, ffffffff, ffffffff, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (1)
+[i]  Args: 610e111398, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 98: futex (0)
+[i]  Args: 610e111398, 89, 2aa, 0, 0, ffffffff, ffffffff, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (0)
+[i]  Args: 610e111398, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 98: futex (1)
+[i]  Args: 610e112a74, 89, 2, 0, 0, ffffffff, ffffffff, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (1)
+[i]  Args: 610e112a74, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 98: futex (0)
+[i]  Args: 610e112a74, 89, 2, 0, 0, ffffffff, ffffffff, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (0)
+[i]  Args: 610e112a74, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 98: futex (1)
+[i]  Args: 610e1113c8, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (1)
+[i]  Args: 610e1113c8, 89, 2b6, 0, 0, ffffffff, ffffffff, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 98: futex (0)
+[i]  Args: 610e1113c8, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 98: futex (1)
+[i]  Args: 610e112a74, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (0)
+[i]  Args: 610e1113c8, 89, 2b6, 0, 0, ffffffff, ffffffff, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 98: futex (0)
+[i]  Args: 610e112a74, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 80: fstat (1)
+[i]  Args: 6, 78eb9cab48, 1, 0, 0, 0, 0, 7b7de3fb18
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 73: ppoll (1)
+[i]  Args: 7fff92c160, 1, 0, 0, 0, ffffffff, ffffffff, 7b7de40698
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 80: fstat (0)
+[i]  Args: 6, 78eb9cab48, 1, 0, 0, 0, 0, 7b7de3fb18
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] Reading: socket:[117286]
+[i] 63: read (1)
+[i]  Args: 6, 78eb9ca758, 4, ffffffffffffffff, ffffffffffffffff, 0, 0, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 63: read (0)
+[i]  Args: 6, 78eb9ca758, 4, ffffffffffffffff, ffffffffffffffff, 0, 0, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 212: recvmsg (1)
+[i]  Args: 6, 78eb9ca668, 100, 1, 0, 1, 1, 7b7de401d8
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 212: recvmsg (0)
+[i]  Args: 6, 78eb9ca668, 100, 1, 0, 1, 1, 7b7de401d8
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 48: faccessat (1)
+[i]  Args: ffffff9c, 78edbe4850, 0, 0, 0, 1, 1, 7b7de3f858
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 48: faccessat (0)
+[i]  Args: ffffff9c, 78edbe4850, 0, 0, 0, 1, 1, 7b7de3f858
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 64: write (1)
+[i]  Args: 6, 78eb9ca6e8, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f358
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 64: write (0)
+[i]  Args: 6, 78eb9ca6e8, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f358
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] Reading: socket:[117286]
+[i] 63: read (1)
+[i]  Args: 6, 78eb9ca758, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 63: read (0)
+[i]  Args: 6, 78eb9ca758, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 57: close (1)
+[i]  Args: 7, 7, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f3f8
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 57: close (0)
+[i]  Args: 7, 7, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f3f8
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 80: fstat (1)
+[i]  Args: 6, 78eb9caac8, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3fb18
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 80: fstat (0)
+[i]  Args: 6, 78eb9caac8, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3fb18
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 57: close (1)
+[i]  Args: 6, 6, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f3f8
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 57: close (0)
+[i]  Args: 6, 6, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f3f8
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 135: rt_sigprocmask (1)
+[i]  Args: 2, 78eb9cab08, 78eb9cab58, 8, ffffffffffffffff, 1, 1, 7b7de3ff98
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 135: rt_sigprocmask (0)
+[i]  Args: 2, 78eb9cab08, 78eb9cab58, 8, ffffffffffffffff, 1, 1, 7b7de3ff98
+--------------------------
+[i] fetch_thread_data: 11201
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 11201 }
+[i] 98: futex (1)
+[i]  Args: 610e111398, 89, 2b2, 0, 0, ffffffff, ffffffff, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 73: ppoll (0)
+[i]  Args: 7fff92c160, 1, 0, 0, 0, ffffffff, ffffffff, 7b7de40698
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 212: recvmsg (1)
+[i]  Args: 13, 7fff92c0a8, 100, 1, 0, ffffffff, ffffffff, 7b7de401d8
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 212: recvmsg (0)
+[i]  Args: 13, 7fff92c0a8, 100, 1, 0, ffffffff, ffffffff, 7b7de401d8
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] Reading: socket:[119532]
+[i] 63: read (1)
+[i]  Args: 6, 7fff92c134, 4, ffffffffffffffff, ffffffffffffffff, ffffffff, ffffffff, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 63: read (0)
+[i]  Args: 6, 7fff92c134, 4, ffffffffffffffff, ffffffffffffffff, ffffffff, ffffffff, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (1)
+[i]  Args: 610e111398, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 98: futex (0)
+[i]  Args: 610e111398, 89, 2ae, 0, 0, ffffffff, ffffffff, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (0)
+[i]  Args: 610e111398, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 98: futex (1)
+[i]  Args: 610e112a74, 89, 2, 0, 0, ffffffff, ffffffff, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (1)
+[i]  Args: 610e112a74, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 98: futex (0)
+[i]  Args: 610e112a74, 89, 2, 0, 0, ffffffff, ffffffff, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (0)
+[i]  Args: 610e112a74, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (1)
+[i]  Args: 610e1113c8, 89, 2ba, 0, 0, ffffffff, ffffffff, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 98: futex (1)
+[i]  Args: 610e1113c8, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 98: futex (0)
+[i]  Args: 610e1113c8, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 98: futex (0)
+[i]  Args: 610e1113c8, 89, 2ba, 0, 0, ffffffff, ffffffff, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 98: futex (1)
+[i]  Args: 610e112a74, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 98: futex (0)
+[i]  Args: 610e112a74, 81, 1, 0, 0, 0, 0, 7b7ddee360
+--------------------------
+[i] fetch_thread_data: 1690
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1690 }
+[i] 73: ppoll (1)
+[i]  Args: 7fff92c160, 1, 0, 0, 0, ffffffff, ffffffff, 7b7de40698
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 80: fstat (1)
+[i]  Args: 6, 78edbc4b48, 1, 0, 0, 0, 0, 7b7de3fb18
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 80: fstat (0)
+[i]  Args: 6, 78edbc4b48, 1, 0, 0, 0, 0, 7b7de3fb18
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] Reading: socket:[119532]
+[i] 63: read (1)
+[i]  Args: 6, 78edbc4758, 4, ffffffffffffffff, ffffffffffffffff, 0, 0, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 63: read (0)
+[i]  Args: 6, 78edbc4758, 4, ffffffffffffffff, ffffffffffffffff, 0, 0, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 212: recvmsg (1)
+[i]  Args: 6, 78edbc4668, 100, 1, 0, 1, 1, 7b7de401d8
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 212: recvmsg (0)
+[i]  Args: 6, 78edbc4668, 100, 1, 0, 1, 1, 7b7de401d8
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 48: faccessat (1)
+[i]  Args: ffffff9c, 78edbe4850, 0, 0, 0, 1, 1, 7b7de3f858
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 48: faccessat (0)
+[i]  Args: ffffff9c, 78edbe4850, 0, 0, 0, 1, 1, 7b7de3f858
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 64: write (1)
+[i]  Args: 6, 78edbc46e8, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f358
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 64: write (0)
+[i]  Args: 6, 78edbc46e8, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f358
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] Reading: socket:[119532]
+[i] 63: read (1)
+[i]  Args: 6, 78edbc4758, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 63: read (0)
+[i]  Args: 6, 78edbc4758, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f338
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 57: close (1)
+[i]  Args: 7, 7, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f3f8
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 57: close (0)
+[i]  Args: 7, 7, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f3f8
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 80: fstat (1)
+[i]  Args: 6, 78edbc4ac8, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3fb18
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 80: fstat (0)
+[i]  Args: 6, 78edbc4ac8, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3fb18
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 57: close (1)
+[i]  Args: 6, 6, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f3f8
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 57: close (0)
+[i]  Args: 6, 6, 4, ffffffffffffffff, ffffffffffffffff, 1, 1, 7b7de3f3f8
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 135: rt_sigprocmask (1)
+[i]  Args: 2, 78edbc4b08, 78edbc4b58, 8, ffffffffffffffff, 1, 1, 7b7de3ff98
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 135: rt_sigprocmask (0)
+[i]  Args: 2, 78edbc4b08, 78edbc4b58, 8, ffffffffffffffff, 1, 1, 7b7de3ff98
+--------------------------
+[i] fetch_thread_data: 1692
+[i] status: 0x857f
+[i] TE_SYSCALL_STOP: { pid = 1692 }
+[i] 98: futex (1)
+[i]  Args: 610e111398, 89, 2b6, 0, 0, ffffffff, ffffffff, 7b7ddee360

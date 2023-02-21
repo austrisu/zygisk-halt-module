@@ -1,0 +1,6 @@
+id=zygisk-halt-module
+name=zygisk-halt-module
+version=v1.0
+versionCode=1
+author=nan
+description=rand
